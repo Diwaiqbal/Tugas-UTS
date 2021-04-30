@@ -1,0 +1,77 @@
+.header
+{
+    background-color: rgb(221, 220, 220);
+    height: 190px;
+    width: 1360px;
+    position: fixed;
+    padding-top: 0%;
+}
+
+.title
+{
+    float: left;
+    margin: 0 auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.navi
+{
+    background-color: whitesmoke;
+    position: absolute;
+    height: 48px;
+    width: 1357px;
+    top: 95%;    
+}
+
+ul li
+{
+    display: inline-block;
+}
+
+ul li a
+{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid;        
+}
+.deskripsi
+{
+    padding-left: 10%;
+    padding-top: 20%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.komentar
+{
+    position: relative;
+    top: 150px;
+    left: 100px;
+}
+
+.biod
+{
+    position: relative;
+    top: 259px;
+}
+
+.info
+{
+    position: relative;
+    top: 50%;
+    left: 10%;
+    background-color: rgb(218, 218, 218);
+    width: 900px;
+    height: 100px;
+    text-align: center;
+}
+
+.gambar
+{
+    padding-top: 20%;
+}
+
+.gambar .foto img
+{
+    width: 300px;
+}
